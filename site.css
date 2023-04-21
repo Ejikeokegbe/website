@@ -1,0 +1,41 @@
+body{
+    font-family: monospace;
+}
+div{
+    margin: 0px;
+}
+#em{
+    
+    margin-top: 1px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 25px;
+    margin: 0 10px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav{
+    background: green;
+    height: 50px;
+    width: 100%;
+}
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+#labgo{
+    color: greenyellow;
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 50px;
+    padding: 0 20px;
+}
+#more{
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+}
